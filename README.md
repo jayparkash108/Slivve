@@ -1,4 +1,4 @@
 # Slivve  
 
-### Live streaming platform
+### Live streaming platform built on React Native.
  
