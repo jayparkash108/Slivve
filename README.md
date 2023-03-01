@@ -1,4 +1,4 @@
-# Slivve
+# Slivve  
 
-###Live streaming platform.
+###Live streaming platform
  
